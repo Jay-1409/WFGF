@@ -1,0 +1,24 @@
+{
+  "name": "webhook-service",
+  "version": "1.0.0",
+  "description": "connect endpoints to google forms",
+  "homepage": "https://github.com/Jay-1409/WFGF#readme",
+  "bugs": {
+    "url": "https://github.com/Jay-1409/WFGF/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-1409/WFGF.git"
+  },
+  "license": "ISC",
+  "author": "jay s.",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "run",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
